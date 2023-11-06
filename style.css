@@ -1,0 +1,27 @@
+body
+{
+    background-color: aquamarine;
+}
+
+#score
+{
+    float: right;
+    margin-left: 30px;
+}
+
+#timer
+{
+    font-size: 25px;
+    float: right;
+    margin-right: 30px;
+}
+
+#drawnsketch
+{
+    color: grey;
+}
+
+#show_sketch
+{
+    float: left;
+}
